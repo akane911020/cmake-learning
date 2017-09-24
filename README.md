@@ -2,4 +2,4 @@
 
 ## Topics
 
-* [simple-cs-project](simple-cs-project/)
+* [Simple C# Project](simple-cs-project/)
