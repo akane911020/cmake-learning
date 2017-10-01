@@ -3,5 +3,5 @@
 
 DLLAPI void HelloWorld()
 {
-    std::cout << "Hello World!!" << std::endl;
+    std::cout << "Hello World from C++!!" << std::endl;
 }
